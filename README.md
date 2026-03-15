@@ -151,7 +151,7 @@ If you want to improve this repository:
 ---
 
 ## 📌 Author
-
+## Rohan N Karadigudd
 Created to help students learn **Machine Learning and Deep Learning concepts in a simple way**.
 
 If you find this repository helpful, consider giving it a ⭐ on GitHub!
